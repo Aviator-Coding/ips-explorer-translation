@@ -144,7 +144,7 @@
     "api_getbalance" : "getbalance (/ext/getbalance/hash)",
     "api_getbalance_info" : "Retourne l'encours de l'adresse donnée",
     "api_getlasttxs" : "getlasttxs (/ext/getlasttxs/count/min)",
-    "api_getlasttxs_info" : "Retourne les [count] dernières transactions de moins de [min] minutes",
+    "api_getlasttxs_info" : "Retourne les [count] dernières transactions de plus de [min]",
     "api_getlasttxs_return_satoshi" : "Note: les valeurs renvoyées sont en satoshis",
     "api_getmasternodelist": "Retourne la liste complète des Masternodes",
     "api_getmasternodelist_info": "Retourne le nombre de Masternodes actuellement en ligne.",
