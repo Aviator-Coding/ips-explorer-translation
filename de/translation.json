@@ -61,6 +61,7 @@
     "balance_coin" : "Guthaben {{coin, uppercase}}",
     "received_coin" : "Empfangen {{coin, uppercase}}",
     "received_top" : "Top {{top}} Empfangen",
+    "balance_top" : "Top {{top}} Guthaben",
     "wealth_distribution" : "Vermögensaufteilung",
     "top" : "Top {{top}}",
     "total" : "Gesamt",
@@ -203,11 +204,11 @@
     "crex" : "Crex24"
   },
   "language" : {
-      "us" : "Englisch US",
-      "de" : "Deutsch",
-      "fr" : "Französisch",
-      "ru" : "Russisch",
-      "es" : "Spanisch",
-      "it" : "Italienisch"
-  }
+    "us" : "Englisch US",
+    "de" : "Deutsch",
+    "fr" : "Français",
+    "ru" : "русский",
+    "es" : "español",
+    "it" : "italiano"
+}
 }

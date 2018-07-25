@@ -60,6 +60,7 @@
     "balance_coin" : "Balance {{coin, uppercase}}",
     "received_coin" : "Received {{coin, uppercase}}",
     "received_top" : "Top {{top}} received",
+    "balance_top" : "Top {{top}} balance",
     "wealth_distribution" : "Wealth distribution",
     "top" : "Top {{top}}",
     "total" : "Total",
@@ -141,7 +142,7 @@
     "api_getdistribution" : "getdistribution",
     "api_getdistribution_info" : "Returns wealth distribution stats.",
     "api_getaddress" : "getaddress",
-    "api_getaddress_info" : "Returns information for given address.,
+    "api_getaddress_info" : "Returns information for given address.",
     "api_getbalance" : "getbalance (/ext/getbalance/hash)",
     "api_getbalance_info" : "Returns current balance of given address.",
     "api_getlasttxs" : "getlasttxs (/ext/getlasttxs/count/min)",
@@ -202,11 +203,11 @@
     "crex" : "Crex24"
   },
   "language" : {
-      "us" : "English US",
-      "de" : "German",
-      "fr" : "French",
-      "ru" : "Russian",
-      "es" : "Spanish",
-      "it" : "Italian"
-  }
+    "us" : "Englisch US",
+    "de" : "Deutsch",
+    "fr" : "Français",
+    "ru" : "русский",
+    "es" : "español",
+    "it" : "italiano"
+}
 }

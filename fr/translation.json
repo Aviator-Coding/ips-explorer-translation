@@ -60,6 +60,7 @@
     "balance_coin" : "Encours {{coin, uppercase}}",
     "received_coin" : "Reçu {{coin, uppercase}}",
     "received_top" : "Top {{top}} Reçu",
+    "balance_top" : "Top {{top}} Encours",
     "wealth_distribution" :"Répartition de la richesse",
     "top" : "Top {{top}}",
     "total" : "Total",
@@ -201,11 +202,11 @@
     "crex": "Crex24"
   },
   "language" : {
-      "us" : "English US",
-      "de" : "German",
-      "fr" : "Français",
-      "ru" : "Russia",
-      "es" : "Spain",
-      "it" : "Italian"
-  }
+    "us" : "Englisch US",
+    "de" : "Deutsch",
+    "fr" : "Français",
+    "ru" : "русский",
+    "es" : "español",
+    "it" : "italiano"
+}
 }
